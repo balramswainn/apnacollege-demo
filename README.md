@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git repo
 <br>
-author - balram swain
+author - balram swain by jerry
